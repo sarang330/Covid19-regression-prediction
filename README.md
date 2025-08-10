@@ -99,7 +99,10 @@ Covid19-regression-prediction/
 
 
 ## 📷 Screenshots
-<img width="1910" height="1062" alt="Screenshot 2025-08-10 101018" src="https://github.com/user-attachments/assets/f9796667-282e-42a5-a4d3-bbe30dcd2f70" />
+
+
+![COVID-19 Regression Dashboard](images/dashboard_screenshot.png)
+
 
 
 
