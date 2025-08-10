@@ -101,7 +101,10 @@ Covid19-regression-prediction/
 ## 📷 Screenshots
 
 
-![COVID-19 Regression Dashboard](images/dashboard_screenshot.png)
+## 📷 Screenshots
+
+![Dashboard Screenshot](images/dashboard_screenshot.png)
+
 
 
 
