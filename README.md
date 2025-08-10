@@ -98,12 +98,11 @@ Covid19-regression-prediction/
 ---
 
 
-## 📷 Screenshots
-
 
 ## 📷 Screenshots
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
+
 
 
 
