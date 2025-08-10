@@ -82,7 +82,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ````
 
----
+
 
 ## 📁 Repository Structure
 
@@ -95,15 +95,13 @@ Covid19-regression-prediction/
 ├── LICENSE                        # License file
 
 
----
+```
 
 
 
 ## 📷 Screenshots
 
 ![Dashboard Screenshot](images/dashboard_screenshot.png)
-
-
 
 
 
